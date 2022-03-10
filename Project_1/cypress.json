@@ -1,1 +1,10 @@
-{}
+{
+    "reporter": "mochawesome", 
+    "reporterOptions": {
+    "reportDir": "cypress/report/mochawasome-report",
+    "overwrite": true,
+    "html": true,
+    "json": true,
+    "timestamp": "mmddyyy_HHMMss"
+
+    }}
